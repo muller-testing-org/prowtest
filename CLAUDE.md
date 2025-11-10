@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a development and testing repository for Prow (Prow CI/CD system).
+This is a development and testing repository for Prow (Kubernetes Prow CI/CD system).
 
 ## Current State
 
